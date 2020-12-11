@@ -1,0 +1,40 @@
+/* 見出し */
+
+h1{
+    text-align: center;
+    border-bottom: 2px solid pink;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+h2{
+    background-color: rgba(138, 237, 255, 0.63);
+    width: 180px;
+    color: rgb(56, 55, 55);
+    text-align: center;
+}
+
+h3{
+    font-size: 20px;
+}
+
+/*リンクがある項目にハイライト*/
+.waseda{
+    background-color: rgb(252, 192, 244);
+}
+
+.jinka{
+    background-color: rgb(254, 255, 189);
+}
+
+.zemi{
+    background-color: rgb(164, 216, 247);
+}
+
+/* リンクボックス*/
+#link{
+    border: 2px dashed orange;
+    margin: 60px 40px;
+    padding-left: 30px;
+    width: 500px;
+}
